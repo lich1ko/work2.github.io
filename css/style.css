@@ -1,0 +1,53 @@
+body {
+background-color:rgb(211, 193, 196);
+}
+h2 {
+text-align:center;
+font-weight:bold;
+}
+h3 {
+text-align:center;
+font-weight:bold;
+}
+p {
+color:black;
+font-size:1em;
+text-align:justify;
+}
+.color-red-text {
+color:red;
+text-align:justify;
+}
+.italic-text {
+color:right;
+font-style:italic;
+}
+
+.grand {
+color:black;
+font-weight:700px;
+}
+.grandmother {
+color:black;
+text-align:center;
+}
+.first {
+color:black;
+text-align:center;
+font-style:italic;
+}
+
+img {
+margin:0 auto;
+width:300px;
+}
+table {
+ border-collapse: collapse;
+background-color:rgb(229, 237, 240);
+text-align:center;
+margin: auto;
+}
+th, td {
+ border: 2px solid rgb(229, 237, 240);
+ padding: 5px;
+}
